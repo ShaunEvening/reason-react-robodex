@@ -2,11 +2,11 @@
   <img src="http://i.imgur.com/49C0QB7.png" width="35%"/>
 </p>
 <h1 align="center">
-  reasonml/rehydrate RoboDex
+  reason-react RoboDex
 </h1>
 
 <p align="center">
-This is a react robodex application written with <a href="https://github.com/reasonml/rehydrate">reasonml/rehydrate</a>.
+This is a react robodex application written with <a href="https://github.com/reasonml/reason-react">reason-react</a>.
 Please keep in mind that rehydrate is still in the works and is subject to a lot of change. I will try to keep this as up to date as possible so bare with me.
 </p>
 
@@ -21,7 +21,7 @@ This can be done via brew by running `brew install ninja` on MacOS.
 
 ```sh
 # Clone the repo
-git clone https://github.com/ShaunLloyd/reason-rehydrate-robodex.git
+git clone https://github.com/ShaunLloyd/reason-react-robodex.git
 
 # Install the dependencies
 npm install
