@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="http://i.imgur.com/49C0QB7.png" width="35%"/>
-</p>
 <h1 align="center">
   reason-react RoboDex
 </h1>
