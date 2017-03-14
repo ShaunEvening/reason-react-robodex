@@ -10,6 +10,10 @@ This is a react robodex application written with <a href="https://github.com/rea
 Please keep in mind that rehydrate is still in the works and is subject to a lot of change. I will try to keep this as up to date as possible so bare with me.
 </p>
 
+<p align="center">
+  <img src="http://i.imgur.com/exTmK8o.gif" alt="demo" />
+</p>
+
 ## Setup
 
 **prerequisite:** you'll need to install version 1.7+ of [ninja](https://ninja-build.org/).
@@ -30,7 +34,3 @@ npm run build
 ```
 
 Once you see webpack has successfully bundled your files open up the `index.html` in the `src` directory.
-
-<p align="center">
-  <img src="http://i.imgur.com/exTmK8o.gif" alt="demo" />
-</p>
