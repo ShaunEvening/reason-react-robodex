@@ -8,7 +8,7 @@ Please keep in mind that rehydrate is still in the works and is subject to a lot
 </p>
 
 <p align="center">
-  <img src="http://i.imgur.com/FT6ztif.gif" alt="demo" />
+  <img src="http://i.imgur.com/6YxOOgO.gif" alt="demo" />
 </p>
 
 ## Setup

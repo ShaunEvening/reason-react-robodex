@@ -34,7 +34,7 @@ module Robodex = {
       List.map (fun robot => <RobotCard key=robot.id robot />);
     <div>
       <div className="header">
-        <h1 className="header-title"> (ReactRe.stringToElement "react-react-robodex") </h1>
+        <h1 className="header-title"> (ReactRe.stringToElement "reason-react-robodex") </h1>
         <input
           className="search-bar"
           value=state.searchString
